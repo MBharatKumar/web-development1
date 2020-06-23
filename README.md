@@ -1,3 +1,6 @@
+## About the repositery 
+
+This repositery contains solution to all the assignments which i have completed as the part of my coursera course HTML, CSS and JavaScript for web development provided by Jhon Hopkins University
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MBharatKumar/web-development1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
